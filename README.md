@@ -35,7 +35,7 @@
 
 Interactive operations dashboard demonstrating how a **service owner** manages end-to-end D&A operations in a managed services model. Five operational views covering the full scope of data & analytics service delivery.
 
-Built to show fluency in **SLA governance**, **incident management**, **demand prioritization**, **cost control**, and **platform modernization** across multi-geo delivery teams.
+Covers **SLA governance**, **incident management**, **demand prioritization**, **cost control**, and **platform modernization** across multi-geo delivery teams.
 
 **5** operational tabs &middot; **12** interactive charts &middot; **34** simulated backlog items &middot; **Dark theme** optimized for screen share
 

@@ -74,7 +74,7 @@ export default function App() {
           <a href="https://nicholashidalgo.com" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-slate-400 transition-colors">nicholashidalgo.com</a>
           <span className="hidden sm:inline">&middot;</span>
           <a href="https://linkedin.com/in/nicholasjh" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-slate-400 transition-colors">LinkedIn</a>
-          <span className="sm:ml-auto">Managed D&A Operations Portfolio Project</span>
+          <span className="sm:ml-auto">D&A Operations Command Center</span>
         </div>
       </footer>
     </div>
